@@ -4,8 +4,8 @@
 	<groupId>com.programcreek</groupId>
 	<artifactId>HelloWorld</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.3-SNAPSHOT</version>
-	<!--bye-->
+	<version>0.0.4-SNAPSHOT</version>
+	<!--hiiiiiii-->
 	<name>HelloWorld Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
